@@ -28,7 +28,7 @@ const Blogs = () => {
             </div>
          
             <div className='cart-container'>
-                <h2>Selected:{time}</h2>
+                <h2>Selected:</h2>
                 <Cart></Cart>
             </div>
 
