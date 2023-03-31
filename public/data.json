@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name":"Mr. Kodu",
+
+        "image":"../src/Components/Images/image-1.jpg",
+        "imageIcon":"../../../public/blog-image.png",
+        "title": "Lorem ipsum dolor sit amet",
+        "date":"May14 (1 day ago)",
+        "timeToRead": "5"
+    },
+    {
+        "id": 2,
+        "name":"Mr. Lodu",
+        "image":"../src/Components/Images/image-2.jpg",
+        "imageIcon":"../../../public/blog-image-1.png",
+        "title": "Consectetur adipiscing elit",
+        "date": "May14 (3 days ago)",
+        "timeToRead": "3"
+    },
+    {
+        "id": 3,
+        "name":"Mr. Todu",
+        "image":"../src/Components/Images/image-3.jpg",
+        "imageIcon":"../../../public/blog-image-2.png",
+        "writer": "Bob Johnson",
+        "title": "Sed do eiusmod tempor incididunt",
+        "date": "May14 (6 days ago)",
+        "timeToRead": "8"
+    },
+    {
+        "id": 4,
+        "name":"Mr. Modu",
+        "image":"../src/Components/Images/image-4.jpg",
+        "imageIcon":"../../../public/blog-image-3.png",
+        "title": "Ut enim ad minim veniam",
+        "date": "May15 (7 days ago)",
+        "timeToRead": "2"
+    }
+]
