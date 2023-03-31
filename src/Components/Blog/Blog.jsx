@@ -5,7 +5,13 @@ import "./Blog.css"
 
 const Blog = (props) => {
     const { image, imageIcon,timeToRead, date, title,name} = props.blog;
-    const handleAddToCart=props.handleAddToCart;
+    const handleClick = () => {
+        let markAsRead = document.getElementById("markAsRead");
+        markAsRead.innerText =
+          parseInt(markAsRead.innerText) + parseInt(timeToRead);
+        console.log(markAsRead.innerText);
+      };
+    
     
     return (
         <div className="blog  ">
@@ -23,12 +29,13 @@ const Blog = (props) => {
                 </div>
                 </div>
                <div>
-               <p className='hover:text-orange-400'  onClick={()=>handleAddToCart(props.blog)}>{timeToRead} min read  <FontAwesomeIcon  icon={faBookmark} /></p>
+               <p className='bookmark-btn hover:text-orange-400'>{timeToRead} min read  <FontAwesomeIcon  className="fa-xl"  icon={faBookmark} /></p>
             </div>
                </div>
             <div className='blog-info'>
                 <h2 className='title  text-3xl mt-7 text-bolder'>{title}</h2>
-                <p className='underline underline-offset-4 text-orange-500 mt-4'>Mark as read</p>
+                <h3>#beginner  #programming</h3>
+                <p onClick={() => handleClick()} className='markAsRead-btn underline underline-offset-4 text-orange-500 mt-4'>Mark as read</p>
             </div>
         </div>
     );

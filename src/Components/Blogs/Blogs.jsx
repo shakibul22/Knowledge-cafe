@@ -6,7 +6,8 @@ import "./Blogs.css"
 const Blogs = () => {
 
     const [blogs, setblogs] = useState([])
-    const [cart,setCart] =useState([])
+    const [cart,setCart] =useState(177)
+
 
     useEffect(() => {
         fetch('data.json')
@@ -28,8 +29,7 @@ const Blogs = () => {
             </div>
          
             <div className='cart-container'>
-                <h2>Selected:</h2>
-                <Cart></Cart>
+                <Cart cart={cart}></Cart>
             </div>
 
         </div>
