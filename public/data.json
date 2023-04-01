@@ -1,39 +1,38 @@
 [
     {
         "id": 1,
-        "name":"Mr. Kodu",
-
+        "name":"Mr. Scientist",
         "image":"../src/Components/Images/image-1.jpg",
         "imageIcon":"../../../public/blog-image.png",
-        "title": "Lorem ipsum dolor sit amet",
+        "title": "How to get your first job as a self-taught programmer",
         "date":"May14 (1 day ago)",
         "timeToRead": "5"
     },
     {
         "id": 2,
-        "name":"Mr. Lodu",
+        "name":"Albert Molt",
         "image":"../src/Components/Images/image-2.jpg",
         "imageIcon":"../../../public/blog-image-1.png",
-        "title": "Consectetur adipiscing elit",
+        "title": "AI Genius: Exploring the Boundaries of Machine Intelligence",
         "date": "May14 (3 days ago)",
         "timeToRead": "3"
     },
     {
         "id": 3,
-        "name":"Mr. Todu",
+        "name":"Mrs. Mosquito",
         "image":"../src/Components/Images/image-3.jpg",
         "imageIcon":"../../../public/blog-image-2.png",
         "writer": "Bob Johnson",
-        "title": "Sed do eiusmod tempor incididunt",
+        "title": "BuzzOff: Using AI to Combat Mosquito-Borne Diseases",
         "date": "May14 (6 days ago)",
         "timeToRead": "8"
     },
     {
         "id": 4,
-        "name":"Mr. Modu",
+        "name":"Mr.Bacteria",
         "image":"../src/Components/Images/image-4.jpg",
         "imageIcon":"../../../public/blog-image-3.png",
-        "title": "Ut enim ad minim veniam",
+        "title": "The Art of Coding: Mastering Programming Fundamentals and Best Practices",
         "date": "May15 (7 days ago)",
         "timeToRead": "2"
     }
