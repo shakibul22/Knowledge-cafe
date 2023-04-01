@@ -1,6 +1,6 @@
 .body-container{
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 @media screen and (max-width: 588px) {
     .body-container{
@@ -8,4 +8,5 @@
       align-items: center;
      
     }
+
 }

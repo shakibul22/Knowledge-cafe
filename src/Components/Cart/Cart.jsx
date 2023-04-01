@@ -9,7 +9,7 @@ const Cart = (props) => {
         <h1>Spend time on read: {props.time} min</h1>
       </div>
       <div className=' shadow-lg p-8 text-xl '>
-       <h3 className='bookmarked'>Bookmarked Blogs:</h3>
+       <h3 className='bookmark-container'>Bookmarked Blogs:{carts.length}</h3>
         {
           carts.map(cart => <p className='shadow-xl'>{cart.title}</p>)
         }
