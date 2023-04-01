@@ -9,7 +9,7 @@ const Header = () => {
                 </div>
                 <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
                     <div className="w-20  rounded-full">
-                        <img src="../../../public/header.jpg" />
+                        <img src="https://th.bing.com/th/id/OIP.KizxyfCy7T3_cSusDq9kcAHaFo?pid=ImgDet&rs=1" />
                     </div>
                 </label>
             </div>

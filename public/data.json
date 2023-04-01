@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name":"Mr. Scientist",
-        "image":"../src/Components/Images/image-1.jpg",
-        "imageIcon":"../../../public/blog-image.png",
+        "image":"https://as1.ftcdn.net/v2/jpg/05/73/61/52/1000_F_573615227_bJdeXxOqNahQfYlLppG1PbYNtuQ5N1fT.jpg",
+        "imageIcon":"https://th.bing.com/th/id/R.39f0d0f002199de7d3b89865b9d56e70?rik=HYf0ZfmqeZLxhg&riu=http%3a%2f%2fwww.themost10.com%2fwp-content%2fuploads%2fAlbert-Einstein.jpg&ehk=VVsyL2iHCmuDyERjlWAPt0D%2b%2fA2SjwNV9blHhf3bqT0%3d&risl=&pid=ImgRaw&r=0",
         "title": "How to get your first job as a self-taught programmer",
         "date":"May14 (1 day ago)",
         "timeToRead": 5
@@ -11,8 +11,8 @@
     {
         "id": 2,
         "name":"Albert Molt",
-        "image":"../src/Components/Images/image-2.jpg",
-        "imageIcon":"../../../public/blog-image-1.png",
+        "image":"https://as2.ftcdn.net/v2/jpg/03/23/82/99/1000_F_323829966_H32wLhoouiPinJ66KyggCvqQ2dFPuuQ1.jpg",
+        "imageIcon":"https://images.pexels.com/photos/5816265/pexels-photo-5816265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "AI Genius: Exploring the Boundaries of Machine Intelligence",
         "date": "May14 (3 days ago)",
         "timeToRead": 3
@@ -20,8 +20,8 @@
     {
         "id": 3,
         "name":"Mrs. Mosquito",
-        "image":"../src/Components/Images/image-3.jpg",
-        "imageIcon":"../../../public/blog-image-2.png",
+        "image":"https://as1.ftcdn.net/v2/jpg/02/85/92/64/1000_F_285926473_L4IqNJhss4ym9WOYUQYN0TCecpFDFerR.jpg",
+        "imageIcon":"https://i.pinimg.com/originals/35/6d/40/356d4070e5646caf2d992c764cd22503.jpg",
         "writer": "Bob Johnson",
         "title": "BuzzOff: Using AI to Combat Mosquito-Borne Diseases",
         "date": "May14 (6 days ago)",
@@ -30,8 +30,8 @@
     {
         "id": 4,
         "name":"Mr.Bacteria",
-        "image":"../src/Components/Images/image-4.jpg",
-        "imageIcon":"../../../public/blog-image-3.png",
+        "image":"https://as2.ftcdn.net/v2/jpg/02/83/46/33/1000_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg",
+        "imageIcon":"https://images.pexels.com/photos/10513822/pexels-photo-10513822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "The Art of Coding: Mastering Programming Fundamentals and Best Practices",
         "date": "May15 (7 days ago)",
         "timeToRead": 2
