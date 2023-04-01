@@ -6,7 +6,7 @@
         "imageIcon":"../../../public/blog-image.png",
         "title": "How to get your first job as a self-taught programmer",
         "date":"May14 (1 day ago)",
-        "timeToRead": "5"
+        "timeToRead": 5
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "imageIcon":"../../../public/blog-image-1.png",
         "title": "AI Genius: Exploring the Boundaries of Machine Intelligence",
         "date": "May14 (3 days ago)",
-        "timeToRead": "3"
+        "timeToRead": 3
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
         "writer": "Bob Johnson",
         "title": "BuzzOff: Using AI to Combat Mosquito-Borne Diseases",
         "date": "May14 (6 days ago)",
-        "timeToRead": "8"
+        "timeToRead": 6
     },
     {
         "id": 4,
@@ -34,6 +34,6 @@
         "imageIcon":"../../../public/blog-image-3.png",
         "title": "The Art of Coding: Mastering Programming Fundamentals and Best Practices",
         "date": "May15 (7 days ago)",
-        "timeToRead": "2"
+        "timeToRead": 2
     }
 ]
