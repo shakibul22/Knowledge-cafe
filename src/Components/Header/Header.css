@@ -2,5 +2,12 @@
     font-family: 'Exo 2';
     font-size: 24px;
     color: #111111;
+   
     
+}
+@media screen and (max-width: 588px) {
+    .header{
+      width: 10px;
+     
+    }
 }
